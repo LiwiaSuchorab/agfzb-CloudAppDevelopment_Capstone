@@ -1,7 +1,7 @@
   applications:
   - name: djangoapp
     routes:
-      - route: $HOST.$DOMAIN
+      - route: localhost
     memory: 128M
     buildpack: python_buildpack
   - name: djangoapp-nginx
