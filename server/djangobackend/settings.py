@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost", "kaps10.eu-gb.cf.appdomain.cloud"]
+ALLOWED_HOSTS = ["localhost", "liv.eu-gb.cf.appdomain.cloud"]
 
 
 # Application definition
